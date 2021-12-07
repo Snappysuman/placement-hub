@@ -1,0 +1,740 @@
+body{
+  
+  position: relative;
+  overflow-x: hidden;
+  max-width: 100%;
+  
+}
+
+
+
+
+
+/* navbar font */
+
+
+
+
+.brandName{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+}
+.carousel-item img{
+   width: 100%;
+   height: 100vh;
+margin-top: 0px;
+}
+
+.card3{
+   display: flex;
+   justify-content: space-between;
+padding-left: 50px;
+padding-right: 50px;
+}
+
+
+
+footer {
+  color: #fff;
+  font-size: 14px;
+  background: #111111;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+user agent stylesheet
+footer {
+  display: block;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #444444;
+}
+
+
+
+/* journy */
+
+
+
+
+
+/*--------------------------------------------------------------
+  # Clients
+  --------------------------------------------------------------*/
+  .clients .swiper-pagination {
+    margin-top: 20px;
+    position: relative;
+  }
+  .clients .swiper-pagination .swiper-pagination-bullet {
+    width: 12px;
+    height: 12px;
+    background-color: #fff;
+    opacity: 1;
+    border: 1px solid #e03a3c;
+  }
+  .clients .swiper-pagination .swiper-pagination-bullet-active {
+    background-color: #e03a3c;
+  }
+  .clients .swiper-slide img {
+    opacity: 0.5;
+    transition: 0.3s;
+    filter: grayscale(100);
+  }
+  .clients .swiper-slide img:hover {
+    opacity: 1;
+    filter: none;
+  }
+
+
+
+  /* team */
+
+
+
+  .team{
+    background-image: url('backg1.jpg');
+    text-align: center;
+    height: 500px;
+
+  }
+
+  
+    
+  
+
+  
+  
+
+
+
+/* FOOTER */
+.srdn{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-between;
+}
+.btn-floating{
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.row {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+user agent stylesheet
+div {
+  display: block;
+}
+.main-d {
+  background-color: #290138 !important;
+  color: white;
+}
+
+html, body {
+  background: var(--bg1);
+  color: var(--color1);
+  font-family: "IBM Plex Sans";
+  font-size: 0.93rem;
+}
+.normal, table thead th, html, h1, h2, h3, h4, h5, h6, p, body {
+  font-weight: 300;
+}
+html {
+  line-height: 1.5;
+  color: rgba(0,0,0,0.87);
+}
+html {
+  line-height: 1.15;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.row{
+  -ms-flex-align: start;
+}
+
+.page-footer .footer-copyright {
+  background-color: #3b0054;
+  
+}
+.row {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+.no-margin {
+  margin: 0 !important;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+user agent stylesheet
+div {
+  display: block;
+}
+.main-d {
+  background-color: #290138 !important;
+  color: white;
+}
+
+html, body {
+  background: var(--bg1);
+  color: var(--color1);
+  font-family: "IBM Plex Sans";
+  font-size: 0.93rem;
+}
+.normal, table thead th, html, h1, h2, h3, h4, h5, h6, p, body {
+  font-weight: 300;
+}
+html {
+  line-height: 1.5;
+  color: rgba(0,0,0,0.87);
+}
+html {
+  line-height: 1.15;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+
+
+
+
+
+
+
+
+.container.full {
+    width: 100%;
+}
+.page-footer {
+    padding: 10px;
+    
+}
+.container {
+    width: 100%;
+}
+.main-d {
+    background-color: #290138 !important;
+    color: white;
+}
+.container {
+    /* margin: 0; */
+    width: 100%;
+}
+
+article, aside, footer, header, nav, section {
+    display: block;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+footer {
+    display: block;
+}
+
+
+html, body {
+    background: var(--bg1);
+    color: var(--color1);
+    font-family: "IBM Plex Sans";
+    font-size: 0.93rem;
+}
+.normal, table thead th, html, h1, h2, h3, h4, h5, h6, p, body {
+    font-weight: 300;
+}
+html {
+    line-height: 1.5;
+    color: rgba(0,0,0,0.87);
+}
+html {
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* card */
+
+.card5{
+
+  background-image: url('./backg2.jpg');
+  height: 350px;
+  
+  display: flex;
+  
+  justify-content: space-between;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-top: 20px;
+}
+
+  
+/* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+.flip-card {
+  
+  background-color: transparent;
+  width: 300px;
+  height: 300px;
+  
+  perspective: 1000px; /* Remove this if you don't want the 3D effect */
+}
+
+/* This container is needed to position the front and back side */
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 1s;
+  transform-style: preserve-3d;
+}
+
+/* Do an horizontal flip when you move the mouse over the flip box container */
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+/* Position the front and back side */
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden; /* Safari */
+  backface-visibility: hidden;
+}
+
+/* Style the front side (fallback if image is missing) */
+.flip-card-front {
+  background-color: rgb(38, 228, 228);
+  color: black;
+}
+
+/* Style the back side */
+.flip-card-back {
+  background-color: rgba(168, 240, 25, 0.863);
+  color: rgb(14, 13, 13);
+  transform: rotateY(180deg);
+}
+
+
+.row{
+  /* display: flex; */
+  padding-right: 10px;
+}
+
+
+
+
+/* header main */
+
+.HomeHeader__main {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: reverse;
+  -ms-flex-direction: column-reverse;
+  flex-direction: column-reverse;
+  background: none;
+  background-color: #fff;
+}
+
+
+
+/*
+.HomeHeader__main {
+    padding: 0;
+}
+
+.HomeHeader__main {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+    -ms-flex-direction: column-reverse;
+    flex-direction: column-reverse;
+    background: none;
+    background-color: #fff;
+} */
+
+
+.HomeHeader__main {
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: row;
+}
+
+
+.HomeHeader__main__left {
+    width: 90%;
+    padding: 0 20px;
+    margin: 20px 0;
+}
+
+.HomeHeader__main__left {
+    width: 80%;
+}
+
+.HomeHeader__main__left {
+    width: 80%;
+    padding: 0;
+    margin: 20px;
+}
+.HomeHeader__main__left {
+    width: 55%;
+    padding: 80px;
+}
+
+
+.HomeHeader__main__left--heading, .HomeHeader__main__left--subheading {
+    font-size: 21px;
+}
+
+.HomeHeader__main__left--heading, .HomeHeader__main__left--subheading {
+    font-size: 24px;
+}
+
+.HomeHeader__main__left--heading, .HomeHeader__main__left--subheading {
+    font-size: 35px;
+}
+.HomeHeader__main__left--heading {
+    width: 100%;
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 1.4;
+    color: #f78077;
+}
+
+
+
+
+.HomeHeader__main__left--subheading {
+    width: 100%;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 1.4;
+    color: #3e4041;
+    margin-bottom: 20px;
+}
+
+
+.HomeHeader__main__left-list {
+  margin: 25px 0;
+}
+
+.HomeHeader__main__left-list-item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-bottom: 7px;
+}
+
+
+
+.HomeHeader__main__left-list-item--text {
+    font-size: 16px;
+}
+
+.HomeHeader__main__left--text, .HomeHeader__main__left-buttons--button-enroll, .HomeHeader__main__left-list-item--text {
+    font-size: 21px;
+}
+.HomeHeader__main__left-list-item--text {
+    font-size: 1.5vw;
+    color: #f78077;
+    font-weight: 500;
+}
+
+
+.HomeHeader__main__left-buttons {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+.HomeHeader__main__left-buttons {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+
+.HomeHeader__main__left-buttons {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+
+
+.HomeHeader__main__right {
+  height: 100%;
+  width: 100%;
+}
+
+.HomeHeader__main__right {
+  background: none;
+  width: 100%;
+}
+
+.HomeHeader__main__right {
+  width: 45%;
+}
+
+
+/* about us */
+.bgmn{
+  background-color: rgba(240, 41, 223, 0.274);
+  height: 500px;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+/* company */
+
+.company1{
+  background-image: url('compy.jpg');
+  height: 400px;
+  text-shadow: darkslateblue;
+ text-align: center;
+ color: rgb(7, 7, 7);
+ font-size: xx-large
+}
+
+
+
+/* registration */
+
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500);
+*:focus {
+  outline: none;
+}
+
+body {
+  
+  margin: 0;
+  padding: 0;
+  background: #DDD;
+  font-size: 16px;
+  color: #222;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+#login-box {
+ 
+  position: relative;
+  margin: auto;
+  width: 600px;
+  height: 400px;
+  background: #FFF;
+  border-radius: 2px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.left {
+  
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-sizing: border-box;
+  padding: 40px;
+  width: 300px;
+  height: 400px;
+}
+
+h1 {
+  margin: 0 0 20px 0;
+  font-weight: 300;
+  font-size: 28px;
+}
+
+input[type="text"],
+input[type="password"] {
+  display: block;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  padding: 4px;
+  width: 220px;
+  height: 32px;
+  border: none;
+  border-bottom: 1px solid #AAA;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  transition: 0.2s ease;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus {
+  border-bottom: 2px solid #16a085;
+  color: #16a085;
+  transition: 0.2s ease;
+}
+
+input[type="submit"] {
+  margin-top: 28px;
+  width: 120px;
+  height: 32px;
+  background: #16a085;
+  border: none;
+  border-radius: 2px;
+  color: #FFF;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  transition: 0.1s ease;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover,
+input[type="submit"]:focus {
+  opacity: 0.8;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+  transition: 0.1s ease;
+}
+
+input[type="submit"]:active {
+  opacity: 1;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+  transition: 0.1s ease;
+}
+
+.or {
+  position: absolute;
+  top: 180px;
+  left: 280px;
+  width: 40px;
+  height: 40px;
+  background: #DDD;
+  border-radius: 50%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+  line-height: 40px;
+  text-align: center;
+}
+
+.right {
+  position: absolute;
+  top: 0;
+  right: 0;
+  box-sizing: border-box;
+  padding: 40px;
+  width: 300px;
+  height: 400px;
+  background: url('https://goo.gl/YbktSj');
+  background-size: cover;
+  background-position: center;
+  border-radius: 0 2px 2px 0;
+}
+
+.right .loginwith {
+  display: block;
+  margin-bottom: 40px;
+  font-size: 28px;
+  color: #FFF;
+  text-align: center;
+}
+
+button.social-signin {
+  margin-bottom: 20px;
+  width: 220px;
+  height: 36px;
+  border: none;
+  border-radius: 2px;
+  color: #FFF;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  transition: 0.2s ease;
+  cursor: pointer;
+}
+
+button.social-signin:hover,
+button.social-signin:focus {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+  transition: 0.2s ease;
+}
+
+button.social-signin:active {
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+  transition: 0.2s ease;
+}
+
+button.social-signin.facebook {
+  background: #32508E;
+}
+
+button.social-signin.twitter {
+  background: #55ACEE;
+}
+
+button.social-signin.google {
+  background: #DD4B39;
+}
+
+#Registration{
+  background-image: url('./walll1.jpg');
+  /* background-repeat: no-repeat; */
+  /* width: fit-content;
+  height: fit-content; */
+} 
+
+
+
+
+/* restration end */
